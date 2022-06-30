@@ -1,3 +1,3 @@
 # game
-![image](https://user-images.githubusercontent.com/89972439/176681674-de77f3d2-a7ff-4888-a405-b8b8648839f3.png)
+![image](https://user-images.githubusercontent.com/89972439/176681978-c4fafe4c-70b4-45ed-92f4-7ede7a8b40b1.png)
 
